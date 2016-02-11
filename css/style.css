@@ -1,0 +1,71 @@
+h1 {
+  text-align: center;
+  font-family: Lobster;
+  font-size: 65px;
+  background-color: black;
+  color: white;
+  padding-bottom: 20px;
+  border-top: 10px;
+}
+
+ul {
+  text-align: center;
+}
+
+#me-picture{
+  text-align: center;
+
+}
+
+.top-nav {
+    display: inline;
+    font-family: Lato;
+    margin-top: 0px;
+}
+
+body {
+  font-family: Lato;
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+h3{
+  font-family: Lato;
+  text-align: left;
+}
+
+.austin {
+  border-radius: 50px;
+}
+
+.job-title {
+  text-align: left;
+}
+.column-2 {
+  text-align: center;
+  font-size: 12px;
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.social-media{
+  display: inline;
+}
+.contact {
+      background-color: black;
+      font-family: Lato;
+      color: white;
+      padding: 15;
+      font-size: 25px;
+      text-align: center;
+    }
+#JS-email {
+  font-family: Lato;
+  font-size: 12px;
+}
