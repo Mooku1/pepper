@@ -8,6 +8,9 @@ h1 {
   border-top: 10px;
 }
 
+h1:hover{
+  background-color: red;
+}
 ul {
   text-align: center;
 }
