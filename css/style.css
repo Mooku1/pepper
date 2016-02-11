@@ -8,16 +8,19 @@ h1 {
   border-top: 10px;
 }
 
+a{
+  text-decoration: none;
+}
 h1:hover{
   background-color: red;
 }
+
 ul {
   text-align: center;
 }
 
 #me-picture{
   text-align: center;
-
 }
 
 .top-nav {
@@ -61,6 +64,7 @@ hr.style-one {
 .social-media{
   display: inline;
 }
+
 .contact {
       background-color: black;
       font-family: Lato;
@@ -69,6 +73,7 @@ hr.style-one {
       font-size: 25px;
       text-align: center;
     }
+
 #JS-email {
   font-family: Lato;
   font-size: 12px;
